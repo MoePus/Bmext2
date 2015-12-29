@@ -1,0 +1,3 @@
+[submodule "bcmExt2/brotli"]
+	path = bcmExt2/brotli
+	url = https://github.com/google/brotli
